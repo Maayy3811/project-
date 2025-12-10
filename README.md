@@ -1,4 +1,4 @@
-M .# Helpdesk Platform - Cloud-Ready Ticketing System
+nM .# Helpdesk Platform - Cloud-Ready Ticketing System
 
 A comprehensive, cloud-ready helpdesk and ticketing platform built with Next.js, MongoDB, Docker, and CI/CD practices. This project demonstrates professional software development practices including Agile methodologies, DevOps pipelines, software architecture design, quality assurance, and testing.
 
